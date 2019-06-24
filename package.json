@@ -1,0 +1,23 @@
+{
+  "name": "rev-rewrite",
+  "version": "1.0.0",
+  "description": "Append a unique hash to filenames and rewrite references to updated filenames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studds/rev-rewrite.git"
+  },
+  "keywords": [
+    "rev",
+    "rewrite"
+  ],
+  "author": "pubdan@fastmail.fm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studds/rev-rewrite/issues"
+  },
+  "homepage": "https://github.com/studds/rev-rewrite#readme"
+}
