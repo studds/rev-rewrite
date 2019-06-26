@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 serverless-output.yaml
+*.tgz
 
 # dependencies
 /node_modules
@@ -40,6 +41,8 @@ yarn-error.log
 testem.log
 /typings
 .env
+/source
+/dest
 
 # System Files
 .DS_Store
